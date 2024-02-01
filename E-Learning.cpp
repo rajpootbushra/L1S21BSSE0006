@@ -4,5 +4,7 @@ class E_learning{
 void userAuthentication();
 void courseManagement();
 void studentEnrollment();
-void DiscussionForum();
+void DiscussionForum(){
+return forum;
+}
 };
