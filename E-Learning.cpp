@@ -14,5 +14,8 @@ void studentEnrollment(){
 return student;
 }
 
-void DiscussionForum();
+void DiscussionForum(){
+return forum;
+}
+
 };
