@@ -4,7 +4,10 @@ class E_learning{
 void userAuthentication(){
 return user;
 }
-void courseManagement();
+void courseManagement(){
+return course;
+}
+
 void studentEnrollment();
 void DiscussionForum();
 };
